@@ -26,7 +26,7 @@ Unfortunately all of the original limitations could not be fixed, but many have 
 - Cannot answer Google Forms that collect emails
 - If the xFanatical CAPTCHA time runs out, you have to re-key everything (this may be patched in the future)
 - Cannot answer forms with multiple pages
-- Currently cannot answer forms with `<span>`s that are not questions (including images)
+- Wasn't tested with forms that contain junk like images and non-question paragraphs
 - **Important: Please enter the long version of the form link, i.e. it starts with `https://docs.google.com/forms` rather than `https://forms.gle`**
 
 **Also very important: Use at your own risk. I do not encourage nor endorse any kind of activity that is illegal, causes harm to others, or is morally wrong.**
